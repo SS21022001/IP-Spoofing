@@ -1,5 +1,6 @@
 # IP-Spoofing
 Ethical Hacking
+
 IP Spoofing is essentially a technique used by a hackers to gain unauthorized access to Computers. Concepts of IP Spoofing was initially discussed in academic circles as early as 1980. IP Spoofing types of attacks, had been known to Security expert on the theoretical level. It was primarily theoretical until Robert Morris discovered a security weakness in the TCP protocol known as sequence prediction. Occasionally IP spoofing is done to mask the origins of a Dos attack. In fact Dos attacks often mask actual IP address from where attack has originated from. 
 
 Process : 
